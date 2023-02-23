@@ -5,3 +5,12 @@ https://www.udemy.com/course/javascript-basic/ learning
 
 I'll probably put some notes right here in readme, and also exercise files in this repo.
 Why not to practice a bit?
+
+Some notes and links to use later...
+
+https://www.npmjs.com/package/live-server
+live-server . - to start live server
+
+emmet cheat-sheet -> https://docs.emmet.io/cheat-sheet/
+
+
